@@ -1,0 +1,6 @@
+# import the regex module
+import re
+
+# \d does any digit
+digitRegex = re.compile(r'\d\d\d-\d\d\d-\d\d\d\d')
+
