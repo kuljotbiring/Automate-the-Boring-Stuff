@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "/Users/kj/Desktop/Certificates/Automate the Boring Stuff/raiseasert.py", line 4, in <module>
+    raise Exception('This is a the error message.')
+Exception: This is a the error message.
