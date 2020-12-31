@@ -1,5 +1,5 @@
 # import beautiful soup  and requests third party module
-import bs4. requests
+import bs4, requests
 
 
 def getAmazonPrice(productUrl):
